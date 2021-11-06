@@ -14,3 +14,4 @@ For details see the "Performance Metrics Collection and Data Visualization" sect
   https://github.com/mikenizo808/Building-the-Ultimate-Ubuntu-Desktop-on-a-Pre-Made-Gaming-PC
 
 
+*Note: I recommend installing the entire `TICK` stack, version 1.x using `apt-get` as shown in the link above*
