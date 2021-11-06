@@ -6,7 +6,7 @@ The `Akai MPC` (Live, X and One) runs Linux on the 32 bit ARM architecture. As s
 ## Requirements
 - Download the `armv7` bits for `telegraf agent` from the `influxdata` team at `https://influxdata.com` (or follow my document link below which goes through the steps). On the MPC, the `telegraf agent` can run on any USB, SD, etc. on your MPC.
 
-- Enable SSH if needed.  See the excellent article at https://github.com/TheKikGen/MPC-LiveXplore/wiki/Enabling-SSH-on-the-MPC-Live-X-one-Force
+- Enable SSH if needed.  See the excellent article by github user @TheKikGen at `https://github.com/TheKikGen/MPC-LiveXplore/wiki/Enabling-SSH-on-the-MPC-Live-X-one-Force`.
 
 ## `TICK` Stack Required
 You need at least `InfluxDB` up and running someplace for stats to get sent to.
